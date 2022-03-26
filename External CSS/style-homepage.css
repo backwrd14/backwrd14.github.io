@@ -1,0 +1,48 @@
+body {
+  background-color: #c9f2f1;
+  margin: 0;
+}
+
+header {
+  color: navy;
+  font-size: 25px;
+  background-color: lightsalmon;
+  text-align: center;
+  border: 10px groove coral;
+  height: 50px 50px 50px 50px;
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+main {
+  background-color: #ffcc6e;
+  border: 5px solid lightsalmon;
+  padding: 15px 0 15px 50px;
+
+}
+
+.columns {
+  width: 1000px;
+  display: flex;
+  margin: 0 auto;
+
+}
+
+.column {
+  margin: 10px;
+  color: black;
+
+
+}
+
+.subheading {
+  text-align: center;
+  font-size: 30px;
+  color: navy;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px
+}
