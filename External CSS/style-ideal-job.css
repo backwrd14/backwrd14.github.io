@@ -1,0 +1,30 @@
+body {
+  background-color: #f4ffd1;
+margin-left: 20px;
+}
+
+header {
+  font-size: 35px;
+  margin-left: 10px;
+  
+}
+
+.ad {
+  border: 10px ridge teal;
+  width: 850px;
+}
+
+.ad-link {
+  margin: 20px 0 40px 10px;
+}
+
+main {
+  margin-right: 500px;
+}
+
+footer{
+ text-align: center;
+ font-size: 30px;
+ margin: 100px 600px 30px 600px;
+ border: 5px double #e3a909;
+}
