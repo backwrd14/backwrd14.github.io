@@ -1,4 +1,3 @@
-# Assignment 1 (real)
 <!DOCTYPE html>
 <html>
   <head>
